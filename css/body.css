@@ -1,0 +1,25 @@
+#slider{
+    /* background-color: #212A3E; */
+}
+
+#web{
+    background-color: #394867;
+    border: 0px solid;
+    
+}
+a{
+    text-decoration: none;
+}
+#web2{
+    background-color: #212A3E;
+    border: 0px solid;
+}
+div.lead{
+    color: #9BA4B5;
+}
+#img-detail{
+    background-image: url("https://cdn.escharts.com/uploads/public/63b/84f/2ec/63b84f2ecc405358852880.jpg");
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-position: center;
+}
